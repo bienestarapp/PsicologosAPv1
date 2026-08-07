@@ -22,4 +22,4 @@ flake8==6.1.0
 # Production
 gunicorn==21.2.0
 whitenoise==6.5.0
-setuptools>=68
+setuptools==70.3.0
