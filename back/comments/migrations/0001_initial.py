@@ -9,7 +9,7 @@ class Migration(migrations.Migration):
     initial = True
 
     dependencies = [
-        ("profiles", "0018_fix_experience_description"),
+        ("profiles", "0017_remove_psychologistprofile_experience_description_and_more"),
         ("appointments", "0005_alter_appointment_created_at_and_more"),
     ]
 
