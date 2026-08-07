@@ -7,7 +7,7 @@ import django.db.models.deletion
 
 class Migration(migrations.Migration):
     dependencies = [
-        ("profiles", "0018_fix_experience_description"),
+        ("profiles", "0017_remove_psychologistprofile_experience_description_and_more"),
         ("appointments", "0005_alter_appointment_created_at_and_more"),
         ("comments", "0001_initial"),
     ]
