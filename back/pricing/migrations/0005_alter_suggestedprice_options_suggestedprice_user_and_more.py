@@ -9,7 +9,7 @@ class Migration(migrations.Migration):
     dependencies = [
         ("profiles", "0017_remove_psychologistprofile_experience_description_and_more"),
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
-        ("pricing", "0004_create_suggestedprice_table"),
+        ("pricing", "0003_alter_suggestedprice_table"),
     ]
 
     operations = [
