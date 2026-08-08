@@ -114,6 +114,7 @@ USE_TZ = False
 # Update CORS settings for Vite's default port
 CORS_ALLOWED_ORIGINS = [
     "https://emindapp.cl",
+    "https://psicologos-a-pv1.vercel.app",
     "https://www.emindapp.cl",
     "http://186.64.113.186",
     "http://localhost:5173",
